@@ -1,0 +1,7 @@
+interface:
+  display_name: "쉽게 설명하기 · 한국어"
+  short_description: "개념·코드·오류를 대상의 눈높이에 맞춰 쉬운 한국어로 설명"
+  default_prompt: "$eli5-ko 이 내용을 제 배경지식에 맞춰 쉬운 한국어와 구체적인 예시로 설명해 주세요."
+
+policy:
+  allow_implicit_invocation: true
